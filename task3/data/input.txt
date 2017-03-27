@@ -1,0 +1,21 @@
+5 terminals
+LOaded   notPerishable   
+empty 
+empty 
+empty 
+empty
+empty 
+empty 
+LOaded    notPerishable
+empty 
+empty
+empty 
+empty 
+LOaded    notPerishable
+LOaded    Perishable
+empty 
+empty
+LOaded    perishable
+LOaded    Perishable
+empty 
+empty 
